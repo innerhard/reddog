@@ -1,0 +1,5 @@
+{
+  "disallowed": [],
+  "prefixes": ["AS-","FT-"],
+  "maxSections": 2
+}
